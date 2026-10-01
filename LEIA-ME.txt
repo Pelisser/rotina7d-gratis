@@ -1,0 +1,4 @@
+Pasta da página de entrega (GitHub Pages).
+Suba TODO o conteúdo desta pasta no repositório rotina7d-gratis (arraste os arquivos na tela do GitHub: Add file > Upload files).
+Links finais (depois de ativar o Pages): https://pelisser.github.io/rotina7d-gratis/<codigo>.html  ex.: vaga.html, claude.html, 13salario.html
+Página com todos: https://pelisser.github.io/rotina7d-gratis/
